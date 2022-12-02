@@ -1,0 +1,5 @@
+data/train_seq_01.txt
+data/train_seq_02.txt
+data/train_seq_03.txt
+data/train_seq_04.txt
+data/train_seq_05.txt
